@@ -1,10 +1,16 @@
 {
-  "last": "3004",
+  "last": "3008",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
   "url": "https://gw-office.alipayobjects.com/basement_prod/67090ec8-8753-4f88-a808-8535f7fa29be.zip",
+  "3008": {
+    "version": "3.0.08",
+    "feature": [
+      "1. 测试"
+    ]
+  },
   "3004": {
     "version": "3.0.04",
     "feature": [
