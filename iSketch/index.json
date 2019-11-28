@@ -1,10 +1,19 @@
 {
-  "last": "3004",
+  "last": "3006",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/67090ec8-8753-4f88-a808-8535f7fa29be.zip",
+  "url": "https://gw-office.alipayobjects.com/basement_prod/28cfa3e2-0192-497d-ad54-62b20f19c4f4.zip",
+   "3006": {
+    "version": "3.0.06",
+    "feature": [
+    ],
+    "bugfix": [
+      "1. 修复了无限更新组件库的错误",
+      "2. 修复了更新未完成前关闭 Sketch 可能导致的状态出错"
+    ]
+  },
   "3004": {
     "version": "3.0.04",
     "feature": [
