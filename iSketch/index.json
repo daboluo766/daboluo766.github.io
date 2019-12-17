@@ -1,10 +1,20 @@
 {
-  "last": "3006",
+  "last": "3008",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/28cfa3e2-0192-497d-ad54-62b20f19c4f4.zip",
+  "url": "https://gw-office.alipayobjects.com/basement_prod/53064ba4-21f4-4173-a573-8637bc4242ac.zip",
+  "3008":{
+    "version": "3.0.08",
+    "feature": [
+      "1. 支持高版本 SmartLayout",
+      "2. 组件库更新有提示啦"
+    ],
+    "bugfix": [
+      "3. 彻底禁用刷脸"
+    ]
+  },
    "3006": {
     "version": "3.0.06",
     "feature": [
