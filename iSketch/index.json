@@ -1,10 +1,17 @@
 {
-  "last": "3008",
+  "last": "3010",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/d97ee320-254e-4c5e-aa73-5261d5eb4df9.zip",
+  "url": "https://gw-office.alipayobjects.com/basement_prod/d4964f51-2153-46be-9d1f-2b1c7f7f8d7a.zip",
+  "3010": {
+    "version": "3.1.0",
+    "feature": [
+      "1. 组件库体验升级，支持无限滚动检索",
+      "2. 组件库搜索不区分大小写"
+    ]
+  },
   "3008":{
     "version": "3.0.08",
     "feature": [
@@ -13,39 +20,6 @@
     ],
     "bugfix": [
       "3. 彻底禁用刷脸"
-    ]
-  },
-   "3006": {
-    "version": "3.0.06",
-    "feature": [
-    ],
-    "bugfix": [
-      "1. 修复了无限更新组件库的错误",
-      "2. 修复了更新未完成前关闭 Sketch 可能导致的状态出错"
-    ]
-  },
-  "3004": {
-    "version": "3.0.04",
-    "feature": [
-      "1. 更换图标库",
-      "2. 禁用刷脸登录"
-    ],
-    "bugfix": [
-      "3. 拖入组件里面包含子组件的时候更改属性错位的问题",
-      "4. 修复升级组件库之后，串库的问题",
-      "5. 尝试修复升级之后，插件消失的问题（下个版本生效，如果目前有碰到，请重新安装插件）"
-    ]
-  },
-  "3002": {
-    "version": "3.0.02",
-    "feature": [
-      "1. 组建库性能优化",
-      "2. 更好的兼容了macOS 10.15"
-    ],
-    "bugfix": [
-      "3. 修复了出现多个支付宝基础组件库的bug",
-      "4. 修复了旧版本sketch显示不正常的bug",
-      "5. 修复了部分情况下丢失子组件的问题"
     ]
   }
 }
