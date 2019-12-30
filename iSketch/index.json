@@ -5,6 +5,15 @@
   "checkVerisons": [
   ],
   "url": "https://gw-office.alipayobjects.com/basement_prod/d289ac3c-efe0-45c9-baac-3fdeb8acd706.zip",
+  "3102": {
+    "feature": [
+      "1. 组件库体验升级，支持无限滚动检索",
+      "2. 组件库搜索不区分大小写"
+    ],
+    "bugfix": [
+      "3. 修复 3.1.0 版本滚动问题"
+    ]
+  },
   "3008":{
     "version": "3.0.08",
     "feature": [
