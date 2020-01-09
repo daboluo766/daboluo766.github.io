@@ -1,11 +1,16 @@
 {
-  "last": "3012",
+  "last": "3014",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/d289ac3c-efe0-45c9-baac-3fdeb8acd706.zip",
-  "3102": {
+  "url": "https://gw-office.alipayobjects.com/basement_prod/832f315d-98db-45d5-b351-ea86f1b41ba3.zip",
+  "3014": {
+    "bugfix": [
+      "1. 修复搜索时会崩溃的问题"
+    ]
+  },
+  "3012": {
     "feature": [
       "1. 组件库体验升级，支持无限滚动检索",
       "2. 组件库搜索不区分大小写"
