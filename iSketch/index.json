@@ -1,10 +1,17 @@
 {
-  "last": "3014",
+  "last": "3016",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/832f315d-98db-45d5-b351-ea86f1b41ba3.zip",
+  "url": "https://gw-office.alipayobjects.com/bmw-prod/d6f4e5dd-d166-4e91-a43e-c7774c97d150.zip",
+  "3016": {
+    "version": "3.1.06",
+    "feature": [
+      "1. 模板库更新为支付宝2020版设计语言样式",
+      "2. 行业图标库更新，新增400+个城市服务图标，感谢花炮同学提供并整理"
+    ]
+  },
   "3014": {
     "version": "3.1.04",
     "bugfix": [

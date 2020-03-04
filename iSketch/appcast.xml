@@ -5,8 +5,8 @@
         <link>https://code.aliyun.com/dapollo/iSketch/raw/master/iSketch/appcast.xml</link>
         <description>Internal</description>
         <item>
-            <title>3.1.04</title>
-            <enclosure url="https://gw-office.alipayobjects.com/basement_prod/832f315d-98db-45d5-b351-ea86f1b41ba3.zip" sparkle:version="3.1.04" type="application/octet-stream"/>
+            <title>3.1.06</title>
+            <enclosure url="https://gw-office.alipayobjects.com/bmw-prod/d6f4e5dd-d166-4e91-a43e-c7774c97d150.zip" sparkle:version="3.1.06" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
