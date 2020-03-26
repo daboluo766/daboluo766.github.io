@@ -5,8 +5,8 @@
         <link>https://daboluo766.github.io/Dapollo/appcast</link>
         <description>Dapollo Sketch Plugin</description>
          <item>
-            <title>3.2.07</title>
-            <enclosure url="https://gw.alipayobjects.com/os/bmw-prod/fc6e0091-3d69-40f2-b80b-3505af8fccbb.zip" sparkle:version="3.2.07" type="application/octet-stream"/>
+            <title>3.2.09</title>
+            <enclosure url="https://gw.alipayobjects.com/os/bmw-prod/742da58a-9a15-4711-bd5f-33f01b7e5d6d.zip" sparkle:version="3.2.09" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
