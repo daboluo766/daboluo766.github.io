@@ -1,12 +1,12 @@
 {
-  "last": "3209",
+  "last": "3211",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/bmw-prod/742da58a-9a15-4711-bd5f-33f01b7e5d6d.zip",
-  "3209": {
-    "version": "3.2.09",
+  "url": "https://gw.alipayobjects.com/os/bmw-prod/be884f40-8d2f-4953-a01b-9fc96b60a2a7.zip",
+  "3211": {
+    "version": "3.2.11",
     "feature": [],
     "bugfix": [
       "1. 修复低版本上无法显示图标的问题",
