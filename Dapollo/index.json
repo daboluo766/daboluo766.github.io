@@ -7,9 +7,11 @@
   "url": "https://gw.alipayobjects.com/os/bmw-prod/ff1dd62a-e548-4d64-b91d-a6cccbd7337c.zip",
   "3215": {
     "version": "3.2.15",
-    "feature": [],
+    "feature": [
+      "1. 迁移升级服务"
+    ],
     "bugfix": [
-      "1. 优化兼容性"
+      "2. 优化兼容性"
     ]
   }
 }
