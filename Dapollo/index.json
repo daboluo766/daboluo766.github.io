@@ -4,9 +4,9 @@
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/bmw-prod/c053b4d9-dca5-47f5-9058-eb81b6a6391a.zip",
-  "3213": {
-    "version": "3.2.13",
+  "url": "https://gw.alipayobjects.com/os/bmw-prod/ff1dd62a-e548-4d64-b91d-a6cccbd7337c.zip",
+  "3215": {
+    "version": "3.2.15",
     "feature": [],
     "bugfix": [
       "1. 优化兼容性"

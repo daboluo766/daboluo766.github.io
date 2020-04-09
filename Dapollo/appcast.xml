@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Dapollo</title>
-        <link>https://daboluo766.github.io/Dapollo/appcast</link>
+        <link>https://yan.alipay.com/api/dapollo/getUpdateXML</link>
         <description>Dapollo Sketch Plugin</description>
          <item>
-            <title>3.2.13</title>
-            <enclosure url="https://gw.alipayobjects.com/os/bmw-prod/c053b4d9-dca5-47f5-9058-eb81b6a6391a.zip" sparkle:version="3.2.13" type="application/octet-stream"/>
+            <title>3.2.15</title>
+            <enclosure url="https://gw.alipayobjects.com/os/bmw-prod/ff1dd62a-e548-4d64-b91d-a6cccbd7337c.zip" sparkle:version="3.2.15" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
